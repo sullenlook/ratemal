@@ -1,0 +1,11 @@
+RATEMAL PLUGIN IN DEUTSCH
+
+Sag einfach "Rate mal?" und Siri rät.
+
+So installierst Du dieses Plugin: 
+
+# 1: Lade den "ratemal" ordner in ~/SiriServerCore/plugins/ 
+
+# 2: Fügen Sie "ratemal" in plugins.conf ein
+
+FERTIG
